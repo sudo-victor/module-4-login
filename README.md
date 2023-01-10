@@ -1,5 +1,12 @@
 Crie uma API com a possibilidade de criar e autenticar usuários
 
+- Express
+- Mongo/Mongoose
+- Dotenv
+- Ts
+- Jest
+- Multer
+
 # User
 
 - fullname [Obrigatório]

@@ -1,0 +1,26 @@
+{
+  "name": "projeto-node-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sudo-victor/module-4-login.git",
+  "author": "Victor de Souto <victor.souto@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sobson": "tsnd src/index.ts",
+    "vitinho_cabuloso": "tsnd src/index.ts",
+    "batata": "tsnd src/index.ts",
+    "ricardin_do_grau": "node n-faco-ideia-vei/index.js"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.15",
+    "@types/node": "^18.11.18",
+    "dotenv": "^16.0.3",
+    "typescript": "^4.9.4"
+  }
+}
